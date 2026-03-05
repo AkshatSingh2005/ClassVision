@@ -1,4 +1,4 @@
-# React Admin Teacher Dashboard
+# ClassVision React Admin Teacher Dashboard
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
